@@ -15,3 +15,6 @@
         git config --global --unset http.proxy
     链接：
         https://blog.csdn.net/weixin_42125310/article/details/106212710
+4.py  commit 与commit and Push、Push的区别
+    
+    上一步操作之后 commit似乎成功了 但是远程仓库似乎是没有更新上去
