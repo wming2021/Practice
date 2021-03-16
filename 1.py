@@ -16,6 +16,6 @@ def add(add_a, add_b):
 
 
 print(add(1, 6))
-print(add(1, 7))
+print(add(1, 8))
 
 
